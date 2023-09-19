@@ -1,5 +1,5 @@
 
-import printLegal from "./printNice.js"
+import { printInTheBoxAst, printInTheBox } from "./printNice.js"
 
-//printLegal("oi gente")
-
+printInTheBoxAst("oi gente")
+printInTheBox("Abacate")

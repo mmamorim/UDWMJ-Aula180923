@@ -20,4 +20,4 @@ function printInTheBoxAst(texto) {
     console.log("*"+linha+"*")    
 }
 
-export default printInTheBoxAst
+export { printInTheBoxAst, printInTheBox }
