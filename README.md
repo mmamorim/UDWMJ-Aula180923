@@ -9,3 +9,4 @@
 ## Aula 25/09
 
 * Funções (main2509.js)
+* Classe Pessoa (Pessoa.js)
