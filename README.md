@@ -5,3 +5,7 @@
 * Modulos ES6 com import
 * export default 
 * export
+
+## Aula 25/09
+
+* Funções (main2509.js)
