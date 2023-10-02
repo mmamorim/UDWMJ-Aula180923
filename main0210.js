@@ -39,8 +39,8 @@ async function brincaComRelogios() {
         console.log('resp', resp)    
         resp = await relogio(5)
         console.log('resp', resp)    
-    } catch {
-        console.log('erro');
+    } catch(e) {
+        console.log('erro',e);
     }
 }
 
