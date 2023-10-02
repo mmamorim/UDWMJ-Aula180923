@@ -10,3 +10,8 @@
 
 * Funções (main2509.js)
 * Classe Pessoa (Pessoa.js)
+
+## Aula 02/10
+
+* Promessas
+* Requisições HTTP
