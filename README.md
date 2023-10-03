@@ -13,7 +13,6 @@
 
 ## Aula 02/10
 
-* Promessas (main0210.js)
-* Requisições HTTP (main0210.js)
-* Usuários via HTTP Randomuser / Vuejs (main0210Users.js)
-[Vuejs](https://vuejs.org/)
+* [Promessas/Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) (main0210.js)
+* Requisições HTTP com [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) (main0210.js)
+* Usuários via HTTP [Randomuser](https://randomuser.me/) / [Vuejs](https://vuejs.org/) (main0210Users.js)
