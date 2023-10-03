@@ -16,4 +16,4 @@
 * Promessas (main0210.js)
 * Requisições HTTP (main0210.js)
 * Usuários via HTTP Randomuser / Vuejs (main0210Users.js)
-![https://vuejs.org/](vuejs)
+[Vuejs](https://vuejs.org/)
